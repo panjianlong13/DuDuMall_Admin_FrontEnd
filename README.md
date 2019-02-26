@@ -18,4 +18,4 @@ SpringCloud全家桶商城网站管理平台前端，没想到啥好名字，暂
 ### 第四阶段： 
 * 前端:前端优化 移动端
 * 后端:容器化 ELK日志系统 Zipken链路分析 监控报警系统
-![Image text](https://raw.githubusercontent.com/panjianlong13/DuDuMall/master/img/%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![Image text](https://raw.githubusercontent.com/panjianlong13/DuDuMall_BackEnd/master/img/%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
